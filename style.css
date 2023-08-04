@@ -1,0 +1,26 @@
+.ob {
+    width: 400px;
+    height: 200px;
+    background-color: #abcae9;
+    position: relative;
+
+}
+
+.in {
+    
+    width: 400px;
+    height: 60px;
+    background-color: white;
+    position: absolute;
+    top: 70px;
+
+
+}
+.inn{
+    background-color: black;
+    width: 400px;
+    height: 50px;
+    position:absolute;
+     top:4px;
+
+}
